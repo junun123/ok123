@@ -27,4 +27,4 @@ public class MainActivity extends Activity {
 	    startActivityForResult(takePictureIntent, actionCode);
 	}
 
-}
+}// this is app for taking image
